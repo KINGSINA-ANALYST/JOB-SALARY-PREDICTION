@@ -5,7 +5,7 @@
 
 Dataset: [Job Salary Prediction Dataset](https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset) (250,000 records)
 
-**Author:** Graduate Accountant → Aspiring Data Analyst  
+ 
 **Tools:** Power Query, Pivot Tables, Regression, ANOVA, Power Pivot, Excel Charts
 
 ---
