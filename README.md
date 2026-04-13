@@ -1,3 +1,9 @@
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/487349f8-693a-43ce-9e4d-5e96da1d123d" />
+
+
+
+
+
 # JOB-SALARY-PREDICTION
 250,000 job records analyzed using **only Microsoft Excel**. This project answers 9 business questions about what drives salary — job title, experience, education, location, company size, industry, and remote work.  **Tools used:** Power Query, Pivot Tables, Regression, ANOVA, PowerBI, Power Pivot.
 
