@@ -1,7 +1,7 @@
 # JOB-SALARY-PREDICTION
 250,000 job records analyzed using **only Microsoft Excel**. This project answers 9 business questions about what drives salary — job title, experience, education, location, company size, industry, and remote work.  **Tools used:** Power Query, Pivot Tables, Regression, ANOVA, PowerBI, Power Pivot.
 
-**Answering 9 Business Questions Using Only Excel (No Python)**
+**Answering 9 Business Questions Using Only Excel **
 
 Dataset: [Job Salary Prediction Dataset](https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset) (250,000 records)
 
