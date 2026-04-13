@@ -10,7 +10,7 @@ Dataset: [Job Salary Prediction Dataset](https://www.kaggle.com/datasets/nalisha
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 This project answers **9 real business questions** about job salaries using only Microsoft Excel. No Python. No R. Just clean, professional data analytics that any hiring manager can verify.
 
@@ -18,7 +18,7 @@ This project answers **9 real business questions** about job salaries using only
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 | Column | Description |
 |--------|-------------|
@@ -37,7 +37,7 @@ This project answers **9 real business questions** about job salaries using only
 
 ---
 
-## 🔧 Data Preparation (Power Query)
+##  Data Preparation (Power Query)
 
 Before analysis, I cleaned the data using **Excel Power Query**:
 
@@ -53,7 +53,7 @@ Before analysis, I cleaned the data using **Excel Power Query**:
 
 ---
 
-## 📈 Business Question 1: Does salary change with job title?
+## Business Question 1: Does salary change with job title?
 
 **Method:** Pivot Table + Sorted by Salary
 
@@ -78,7 +78,7 @@ Before analysis, I cleaned the data using **Excel Power Query**:
 
 ---
 
-## 📍 Business Question 2: Does location affect salary of an AI Engineer?
+##  Business Question 2: Does location affect salary of an AI Engineer?
 
 **Method:** Filter + Pivot Table (AI Engineer only)
 
@@ -101,7 +101,7 @@ Before analysis, I cleaned the data using **Excel Power Query**:
 
 ---
 
-## 🏠 Business Question 3: How does salary of AI Engineer vary by remote, on-site, and hybrid?
+## Business Question 3: How does salary of AI Engineer vary by remote, on-site, and hybrid?
 
 **Method:** Filter + Pivot + Bar Chart
 
@@ -122,7 +122,7 @@ Before analysis, I cleaned the data using **Excel Power Query**:
 
 ---
 
-## 🏢 Business Question 4: Does company size affect salary?
+##  Business Question 4: Does company size affect salary?
 
 **Method:** Pivot Table + ANOVA
 
@@ -146,7 +146,7 @@ Before analysis, I cleaned the data using **Excel Power Query**:
 
 ---
 
-## 📅 Business Question 5: Does years of experience affect salary of a Product Manager?
+## Business Question 5: Does years of experience affect salary of a Product Manager?
 
 **Method:** Scatter Plot + Regression (Product Manager only)
 
@@ -174,7 +174,7 @@ text
 
 ---
 
-## 🎓 Business Question 6: How accurately can we predict annual salary using education level alone?
+## Business Question 6: How accurately can we predict annual salary using education level alone?
 
 **Method:** Regression (single variable)
 
@@ -205,7 +205,7 @@ text
 
 ---
 
-## 🏭 Business Question 7: Does industry have predictive power in determining salary?
+## Business Question 7: Does industry have predictive power in determining salary?
 
 **Method:** Pivot Table + ANOVA + Regression with dummy variables
 
@@ -235,7 +235,7 @@ text
 
 ---
 
-## 🗺️ Business Question 8: How many AI Engineers work in each location?
+## Business Question 8: How many AI Engineers work in each location?
 
 **Method:** Filter + Pivot Table + Count
 
@@ -261,7 +261,7 @@ text
 
 ---
 
-## 🔮 Business Question 9: What is the highest predictor of salary?
+## Business Question 9: What is the highest predictor of salary?
 
 **Method:** Multiple Linear Regression (all numeric predictors)
 
@@ -304,7 +304,7 @@ text
 
 ---
 
-## 📁 Excel File Structure
+##  Excel File Structure
 
 Your downloaded `Salary_Prediction.xlsx` will contain these sheets:
 
@@ -325,7 +325,7 @@ Your downloaded `Salary_Prediction.xlsx` will contain these sheets:
 
 ---
 
-## 🚀 How to Replicate This Analysis (Excel Only)
+## How to Replicate This Analysis (Excel Only)
 
 | Step | Instructions |
 |------|--------------|
@@ -356,13 +356,15 @@ Your downloaded `Salary_Prediction.xlsx` will contain these sheets:
 
 ---
 
-## 📬 Connect With Me Via
+## Connect With Me Via
 
-debosinaseun@gmail.com     https://www.linkedin.com/in/sina-seun-adebowale-88bb96224/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsiE0gOWZQXODOGJ9d5Exxw%3D%3D
+debosinaseun@gmail.com     
+
+https://www.linkedin.com/in/sina-seun-adebowale-88bb96224/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsiE0gOWZQXODOGJ9d5Exxw%3D%3D
 
 **Data Analyst** | EDA • Regression • Power Query • Power Pivot • Power BI
 
-Clean. Predict. Visualize. Ready.
+I Clean. I Predict. I Visualize. Always Ready to work.
 
 
 
